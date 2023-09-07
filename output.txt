@@ -1,0 +1,29 @@
+1. How many levels does this residential property have?
+Answer: This residential property has one level.
+
+2. How many bedrooms and bathrooms does this residential property have?
+Answer: This residential property has 3 bedrooms and 2 full bathrooms.
+
+3. What are the interior features of this residential property?
+Answer: The interior features of this property include ceiling fans, blinds/shades, drapes/curtains, smoke alarms, internet wiring, flooring (carpet and vinyl), and a garage door opener.
+
+4. Does this residential property have a kitchen with an island?
+Answer: Yes, this residential property has an amazing kitchen with an island.
+
+5. What type of fencing does this residential property have?
+Answer: The fencing of this residential property is wood.
+
+6. Is there a pool and spa/hot tub in this residential property?
+Answer: Yes, this residential property has an in-ground pool and a spa/hot tub.
+
+7. What is the annual tax amount for this residential property?
+Answer: The annual tax amount for this residential property is not available.
+
+8. What is the association fee for this residential property?
+Answer: The association fee for this residential property is $232, with a monthly payment frequency.
+
+9. What is the construction year of this residential property?
+Answer: This residential property was built in the year 1977.
+
+10. What is the total square feet of living in this residential property?
+Answer: The total square feet of living in this residential property is not available.
