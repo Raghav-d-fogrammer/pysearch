@@ -12,7 +12,7 @@ openai.api_base = "https://rd-aoai-new.openai.azure.com/"
 openai.api_type = 'azure'
 openai.api_version = '2023-05-15'
 deployment_name='rd-turbo'
-
+https://colab.research.google.com/drive/1_lhSWbqVEarzfdSrwAkR9cncUsX4e7NW#scrollTo=HYqyhoB2KCMV&line=1&uniqifier=1
 
 class AI:
     def prompt(self, system_prompt, user_prompt):
