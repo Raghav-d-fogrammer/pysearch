@@ -23,9 +23,16 @@ system_promt_prompter = """
 
 """
 ai = AI()
+count = 0
+#try:
 response = ai.prompt(system_prompt=system_promt_prompter, user_prompt="Give me 10 gifting ideas")
+#except:
+#    if count < 1:
+        
+
 response = response.replace("JSON Array: ", "")
-print("Raw JSON String of Gift Ideas:\n")
+
+print("Raw JSON String of Gift Ideas:")
 print(response)
 print("Validated JSON of Gift Ideas:\n")
 jsonContent = json.loads(response)
